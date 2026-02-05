@@ -1,1 +1,1 @@
-# A CV written using [https://typst.app/](Typst).
+# A CV written using [Typst](https://typst.app/).
