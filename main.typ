@@ -73,7 +73,7 @@
     )[#webpage derekyoungmath]\
     #link("mailto:derekyoungmath@gmail.com")[#google derekyoungmath]\
     #link("https://github.com/derekyoungmath")[#github derekyoungmath]\
-    #link("https://github.com/derekyoungmath")[#orcid 0000-0002-0463-0937]\
+    #link("https://orcid.org/0000-0002-0463-0937")[#orcid 0000-0002-0463-0937]\
   ],
 
 )
